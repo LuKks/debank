@@ -1,0 +1,25 @@
+{
+  "name": "debank",
+  "version": "0.0.0",
+  "description": "API for cloud.debank.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LuKks/debank.git"
+  },
+  "author": "Lucas Barrena (LuKks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuKks/debank/issues"
+  },
+  "homepage": "https://github.com/LuKks/debank",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "dependencies": {
+    "like-fetch": "^1.0.6"
+  }
+}
