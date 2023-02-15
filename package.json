@@ -1,6 +1,6 @@
 {
   "name": "debank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API for cloud.debank.com",
   "main": "index.js",
   "scripts": {
